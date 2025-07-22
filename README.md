@@ -44,10 +44,10 @@ I’m a software engineer and cybersecurity professional passionate about buildi
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🔐 [ACL Management Tool](https://github.com/Chineme123/acl-management-tool) | A permissions-based access control system to manage user roles and rights. | NestJS, PostgreSQL, TypeScript |
-| 🛡️ [File Integrity Monitor](https://github.com/Chineme123/file-integrity-monitor) | Detects unauthorized file changes and generates real-time security alerts. | Python, Linux |
-| 📊 [API Monitoring Tool](https://github.com/Chineme123/api-monitoring-tool) | Tracks uptime, latency, and failures in APIs with a user-friendly dashboard. | Node.js, Express, MongoDB |
-| 💰 [Personal Finance Tracker](https://github.com/Chineme123/PersonalFinanceTracker) | Manage income, expenses, and budgets in one clean interface. | React Native, Firebase |
+| 🔐 [ACL Management Tool](https://github.com/Chineme123/acl-management-tool) | A permissions-based access control system to manage user roles and rights. | python, Windows icalcs |
+| 🛡️ [File Integrity Monitor](https://github.com/Chineme123/file-integrity-monitor) | Detects unauthorized file changes and generates real-time security alerts. | Python |
+| 📊 [API Monitoring Tool](https://github.com/Chineme123/api-monitoring-tool) | Tracks uptime, latency, and failures in APIs with a user-friendly dashboard. | Nextjs, Nestjs MongoDB |
+| 💰 [Personal Finance Tracker](https://github.com/Chineme123/PersonalFinanceTracker) | Manage income, expenses, and budgets in one clean interface. | Java |
 
 ---
 
