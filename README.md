@@ -18,23 +18,23 @@
 
 ```typescript
 const allison = {
-    pronouns: "she" | "her",
+    pronouns: "He" | "Him",
     code: ["JavaScript", "TypeScript", "Python", "C#", "Java"],
     askMeAbout: ["web dev", "cybersecurity", "cloud architecture", "system design"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js", "TypeScript"],
-            css: ["Tailwind", "Bootstrap"]
+            css: ["Tailwind", "ChakraUI"]
         },
         backEnd: {
             js: ["Node.js", "NestJS"],
-            python: ["Django", "FastAPI"],
+            python,
             csharp: [".NET Core", "ASP.NET"],
-            misc: ["REST APIs", "GraphQL"]
+            misc: ["REST APIs"]
         },
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+        databases: ["MongoDB", "PostgreSQL", "MySQL"],
         cloud: ["AWS", "Azure"],
-        security: ["OWASP", "Penetration Testing", "Vulnerability Assessment"],
+        security: ["OWASP", "Risk assessment", "Vulnerability Assessment", "Access Control", "Active Directory"],
         tools: ["Docker", "Git", "Linux", "Wireshark", "Burp Suite"]
     },
     currentFocus: "Advancing cybersecurity expertise with Google Professional Certificate",
@@ -127,13 +127,6 @@ const allison = {
 ### 🏆 **GitHub Trophies**
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Chineme123&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🐍 **Contribution Graph**
-<div align="center">
-  <img src="https://github.com/Chineme123/Chineme123/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
